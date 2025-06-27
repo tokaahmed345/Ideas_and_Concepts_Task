@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<!-- <head>
  
   <style>
     body {
@@ -29,7 +29,7 @@
       display: block;
     }
   </style>
-</head>
+</head> -->
 <body>
 
   <h1>💳 Payment Module using Flutter + GetX + Firebase</h1>
