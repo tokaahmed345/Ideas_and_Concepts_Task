@@ -53,13 +53,13 @@
   <p>
     Shows a list of saved payment options and includes a button to navigate to the Add Card screen.
   </p>
-  <img src="screenshots/Screenshot_1751058703.png" alt="Payment Methods Screen">
+  <img src="screenshots/Screenshot_1751058703.png" alt="Payment Methods Screen"  width="200">
 
   <h3>2. Add Card Screen</h3>
   <p>
     Allows the user to input card details with instant live preview and upload profile image.
   </p>
-  <img src="screenshots/Screenshot_1751058713.png" alt="Add Card Screen">
+  <img src="screenshots/Screenshot_1751058713.png" alt="Add Card Screen"  width="200">
 
   <h2>⚙️ Technologies Used</h2>
   <ul>
