@@ -32,7 +32,7 @@
 </head> -->
 <body>
 
-  <h1>💳 Payment Module using Flutter + GetX + Firebase</h1>
+  <h1>💳 Payment Module using Flutter + GetX + Firebase + MVVM</h1>
 
   <p>
     This is a Flutter payment module built using GetX for state management and Firebase for backend. The project follows MVVM architecture for maintainability and scalability.
